@@ -121,7 +121,7 @@
 <br>
 <br>
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2055%20mins-blue)
 
@@ -168,13 +168,9 @@
 
 
  Last Updated on 20/04/2024
-<!--END_SECTION:waka-->
+END_SECTION:waka-->
 
 
-<p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p>
 
 #
 
@@ -189,11 +185,11 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/govind-singh9447/" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandro-heredia10/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
   
-  <a href="https://www.instagram.com/GovindSingh9447/" target="_blank">
+  <a href="https://www.instagram.com/alehv10/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
   </a>
     
@@ -205,11 +201,6 @@
 <br/>
 <br/>
 
-<p align="center">
-  <a href="https://archiveprogram.github.com/">
-    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
-  </a>
-</p>
 
 
 <div align="center">
@@ -220,10 +211,10 @@
 
 #
 
-![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
+![footer](https://github.com/Aleh10/Aleh10/blob/main/WEBP/footer.webp)
 
 
 -----
-**Credits**: [GovindSingh9447](https://github.com/GovindSingh9447)
+**Credits**: [Aleh10](https://github.com/Aleh10)
 
-**Last Edited on**: 20/04/2024
+**Last Edited on**: 20/05/2025
