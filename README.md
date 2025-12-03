@@ -103,7 +103,9 @@
 </h4>  
   
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/output/snake.svg" alt="Animated Divider">
+</p>
 
 <h1>
   Connect With Me
